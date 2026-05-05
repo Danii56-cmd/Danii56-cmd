@@ -13,7 +13,7 @@ An AI-powered mobile application that solves mathematical problems step-by-step 
 - 📸 OCR (Image to Math conversion)
 - 🧠 AI-generated step-by-step solutions
 - 🤖 Gemini chatbot for interactive help
-- ☁️ Firebase Firestore for real-time data storage
+- ☁️ Hive with Shared Preferences for data storage
 - 🎨 Built with Flutter for a smooth cross-platform experience
 
 ---
