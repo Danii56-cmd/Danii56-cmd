@@ -51,7 +51,6 @@ A mobile app that detects strawberry plant diseases offline using deep learning.
 
 ## 📫 Contact Me
 
-- GitHub: https://github.com/Danii56-cmd
 - LinkedIn: www.linkedin.com/in/hafiz-mohammad-danyal-khan-58a8b3286
 - Gmail: mohammaddanyalkhan56@gmail.com
 - Phone: +92 322 9175639
