@@ -7,6 +7,16 @@
 
 ## 🔥 Featured Projects
 
+### 🛍️ Koreanza
+A modern Flutter-based skincare and beauty e-commerce application focused on delivering a seamless shopping experience.
+
+- 🛒 Product browsing and smart categorization
+- ❤️ Wishlist and shopping cart management
+- 📦 Order history and checkout flow
+- 🔄 Provider state management
+- 🌐 REST API integration
+- 🎨 Responsive and modern UI/UX built with Flutter
+
 ### 📱 Math AI
 An AI-powered mobile application that solves mathematical problems step-by-step using both image and text input.
 
