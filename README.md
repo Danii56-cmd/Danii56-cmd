@@ -1,4 +1,4 @@
-# Hi, I'm Danyal Khan 👋
+# Hi, I'm Mohammad Danyal Khan 👋
 
 🚀 Flutter Developer | AI App Builder  
 🤖 Passionate about AI-powered mobile applications  
