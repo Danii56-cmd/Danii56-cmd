@@ -171,9 +171,17 @@ A mobile AI application designed to detect strawberry plant diseases using deep 
 
 ## 📊 GitHub Statistics
 
+## 📊 GitHub Statistics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Danii56-cmd&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danii56-cmd&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img 
+    src="https://github-stats-extended.vercel.app/api?username=Danii56-cmd&show_icons=true&theme=tokyonight&hide_border=true"
+    height="170"
+  />
+  <img 
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Danii56-cmd&layout=compact&theme=tokyonight&hide_border=true"
+    height="170"
+  />
 </p>
 
 ---
