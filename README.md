@@ -4,6 +4,10 @@
 
 I'm a Computer Science graduate and Flutter Developer passionate about building modern, scalable, and user-focused mobile applications. I specialize in Flutter and Dart, with hands-on experience in state management, REST API integration, Firebase, AI-powered applications, and responsive UI/UX development.
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Danii56-cmd&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
+
 ---
 
 ## 🚀 About Me
@@ -24,7 +28,7 @@ I'm a Computer Science graduate and Flutter Developer passionate about building 
   <a href="https://github.com/Danii56-cmd">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/hafiz-mohammad-danyal-khan-58a8b3286">
+  <a href="https://www.linkedin.com/in/hafiz-danyal">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:mohammaddanyalkhan56@gmail.com">
@@ -59,13 +63,12 @@ A modern Flutter-based Islamic mobile application designed to provide essential 
 
 An AI-powered Flutter application that helps users solve mathematical problems using both image and text input.
 
-* 📸 Extract mathematical problems from images using OCR
+* 📸 Mathematical problem recognition using OCR
 * 🧠 AI-powered step-by-step solutions
 * 🤖 Gemini API integration
 * 💬 Interactive AI assistance
 * 📚 Solution history
 * 💾 Local data storage
-* 🎨 Clean and responsive Flutter interface
 
 **Tech:** Flutter, Dart, Google ML Kit, Gemini API, Hive
 
@@ -148,7 +151,7 @@ A mobile AI application designed to detect strawberry plant diseases using deep 
   <img src="https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
 
-### 🌐 APIs & Development
+### 🌐 APIs & Development Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
@@ -163,21 +166,6 @@ A mobile AI application designed to detect strawberry plant diseases using deep 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=figma" />
 </p>
-
----
-
-## 💻 Core Skills
-
-```text
-Flutter Development     ████████████████████
-Dart                    ████████████████████
-Provider                ██████████████████░░
-Firebase                █████████████████░░░
-REST APIs               █████████████████░░░
-AI API Integration      ████████████████░░░░
-UI/UX Development       ██████████████████░░
-Git & GitHub             ██████████████████░░
-```
 
 ---
 
@@ -208,9 +196,14 @@ Git & GitHub             ██████████████████�
 
 ## 📫 Contact Me
 
-**LinkedIn:** [Mohammad Danyal Khan](https://www.linkedin.com/in/hafiz-mohammad-danyal-khan-58a8b3286)
-
-**Email:** [mohammaddanyalkhan56@gmail.com](mailto:mohammaddanyalkhan56@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/hafiz-danyal">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mohammaddanyalkhan56@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
