@@ -169,7 +169,6 @@ A mobile AI application designed to detect strawberry plant diseases using deep 
 
 ---
 
-## 📊 GitHub Statistics
 
 ## 📊 GitHub Statistics
 
@@ -196,9 +195,22 @@ A mobile AI application designed to detect strawberry plant diseases using deep 
 
 ## 🐍 Contribution Graph
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Danii56-cmd/Danii56-cmd/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Danii56-cmd/Danii56-cmd/output/github-contribution-grid-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Danii56-cmd/Danii56-cmd/output/github-contribution-grid-snake.svg"
+  />
+
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/Danii56-cmd/Danii56-cmd/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 ---
 
