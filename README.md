@@ -40,9 +40,11 @@ I'm a Computer Science graduate and Flutter Developer passionate about building 
 
 ## 🧠 Featured Projects
 
-### 🔹 Islamic App
+## 🧠 Featured Projects
 
-A modern Flutter-based Islamic mobile application designed to provide essential Islamic resources in one place.
+### 🕌 Islamic App
+
+A modern Flutter-based Islamic mobile application bringing essential Islamic resources together in one place.
 
 * 📖 Quran with translations
 * 🕌 Prayer timings
@@ -53,30 +55,17 @@ A modern Flutter-based Islamic mobile application designed to provide essential 
 * 🔥 Firebase integration
 * 🔄 Provider state management
 * 🌐 API integration
-* 🎨 Responsive and modern Flutter UI
+* 🎨 Responsive and modern UI
 
 **Tech:** Flutter, Dart, Provider, Firebase, REST APIs, Geolocation
 
----
-
-### 🔹 Math AI
-
-An AI-powered Flutter application that helps users solve mathematical problems using both image and text input.
-
-* 📸 Mathematical problem recognition using OCR
-* 🧠 AI-powered step-by-step solutions
-* 🤖 Gemini API integration
-* 💬 Interactive AI assistance
-* 📚 Solution history
-* 💾 Local data storage
-
-**Tech:** Flutter, Dart, Google ML Kit, Gemini API, Hive
+🔗 [View Repository](https://github.com/Danii56-cmd/Islamic-App)
 
 ---
 
-### 🔹 Koreanza
+### 💄 Koreanza
 
-A modern Flutter-based skincare and beauty e-commerce application focused on providing a smooth shopping experience.
+A modern Flutter-based skincare and beauty e-commerce application focused on providing a smooth and user-friendly shopping experience.
 
 * 🛍️ Product browsing and categorization
 * ❤️ Wishlist management
@@ -84,38 +73,107 @@ A modern Flutter-based skincare and beauty e-commerce application focused on pro
 * 📦 Order management
 * 🔄 Provider state management
 * 🌐 REST API integration
-* 🎨 Modern and responsive UI/UX
+* 🎨 Modern UI/UX
 
 **Tech:** Flutter, Dart, Provider, REST API
 
+🔗 [View Repository](https://github.com/Danii56-cmd/Koreanza)
+
 ---
 
-### 🔹 NFT Create
+### 🧮 Math AI
 
-A blockchain-focused project for creating and managing digital NFT assets with customizable properties.
+An AI-powered Flutter application that helps users solve mathematical problems using image and text input.
 
-* 🎨 Layer-based digital asset creation
-* 🧾 NFT metadata handling
-* 🔗 Blockchain/Web3 concepts
-* 🖼️ Digital asset generation
-* 🛠️ NFT collection workflow
+* 📸 Mathematical problem recognition using OCR
+* 🧠 AI-powered solutions
+* 🤖 Gemini API integration
+* 💬 AI assistance
+* 📚 Solution history
+* 💾 Local data storage
+
+**Tech:** Flutter, Dart, Google ML Kit, Gemini API, Hive
+
+🔗 [View Repository](https://github.com/Danii56-cmd/Math-AI)
+
+---
+
+### 💼 Developer Portfolio
+
+A personal developer portfolio showcasing my skills, projects, experience, and work as a Flutter Developer.
+
+* 👨‍💻 Developer profile
+* 🚀 Project showcase
+* 🛠️ Skills and technologies
+* 🎨 Modern responsive design
+* 📱 Mobile-friendly interface
+
+**Tech:** Flutter, Dart, UI/UX
+
+🔗 [View Repository](https://github.com/Danii56-cmd/developer-portfolio)
+
+---
+
+### 🦠 COVID-19
+
+A Flutter-based mobile application developed around COVID-19 information and related data.
+
+* 📊 COVID-19 information
+* 📱 Mobile application
+* 🎨 User-friendly interface
+
+**Tech:** Flutter, Dart
+
+🔗 [View Repository](https://github.com/Danii56-cmd/Covid-19)
+
+---
+
+### 🎨 NFT Create
+
+A Flutter-based NFT creation project focused on creating and managing digital NFT assets with customizable properties.
+
+* 🎨 Digital asset creation
+* 🧩 Layer-based asset customization
+* 🖼️ NFT artwork generation
+* 🧾 NFT metadata concepts
+* 🔗 Web3 / blockchain concepts
 
 **Tech:** Flutter, Dart, Provider, Blockchain/Web3 Concepts
 
+🔗 [View Repository](https://github.com/Danii56-cmd/NFT-Create)
+
 ---
 
-### 🔹 Strawberry Disease Detector
+### 🍓 Strawberry Disease Detector
 
-A mobile AI application designed to detect strawberry plant diseases using deep learning models directly on the device.
+An AI-powered Flutter application for detecting diseases in strawberry plants from leaf images.
 
 * 🍓 Strawberry disease detection
-* 🧠 VGG-16 and VGG-19 models
-* ⚡ TensorFlow Lite inference
-* 📱 Offline detection
+* 📸 Image-based analysis
+* 🧠 AI/ML model integration
+* ⚡ TensorFlow Lite
 * 💬 Multilingual chatbot
-* 🌐 English + Urdu support
+* 🌐 English and Urdu support
 
 **Tech:** Flutter, Dart, Python, TensorFlow Lite, AI/ML
+
+🔗 [View Repository](https://github.com/Danii56-cmd/Strawberry-Disease-Detector)
+
+---
+
+### ✅ Task Master
+
+A Flutter task-management application designed to help users organize tasks and receive reminders before scheduled tasks.
+
+* 📝 Create and manage tasks
+* ⏰ Task scheduling
+* 🔔 Reminder notifications
+* 📱 Clean and simple mobile interface
+
+**Tech:** Flutter, Dart
+
+🔗 [View Repository](https://github.com/Danii56-cmd/Task-Master)
+
 
 ---
 
