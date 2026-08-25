@@ -59,7 +59,6 @@ A modern Flutter-based Islamic mobile application bringing essential Islamic res
 
 **Tech:** Flutter, Dart, Provider, Firebase, REST APIs, Geolocation
 
-🔗 [View Repository](https://github.com/Danii56-cmd/Islamic-App)
 
 ---
 
@@ -77,7 +76,6 @@ A modern Flutter-based skincare and beauty e-commerce application focused on pro
 
 **Tech:** Flutter, Dart, Provider, REST API
 
-🔗 [View Repository](https://github.com/Danii56-cmd/Koreanza)
 
 ---
 
@@ -94,7 +92,6 @@ An AI-powered Flutter application that helps users solve mathematical problems u
 
 **Tech:** Flutter, Dart, Google ML Kit, Gemini API, Hive
 
-🔗 [View Repository](https://github.com/Danii56-cmd/Math-AI)
 
 ---
 
@@ -140,7 +137,6 @@ A Flutter-based NFT creation project focused on creating and managing digital NF
 
 **Tech:** Flutter, Dart, Provider, Blockchain/Web3 Concepts
 
-🔗 [View Repository](https://github.com/Danii56-cmd/NFT-Create)
 
 ---
 
